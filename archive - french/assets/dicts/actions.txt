@@ -1,0 +1,3 @@
+driving , drive , drove , drivin , vehicle , motor , bus, car, riding ,سيارة => car
+read , reading , paper , scam , scan , scanning , study , studying  => book
+call , calling , called , mobile , ring , telephone , ringing => phone
